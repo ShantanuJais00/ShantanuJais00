@@ -17,12 +17,15 @@ Currently focused on improving my skills in **Java, Data Structures & Algorithms
 
 ### Backend / Frameworks
 - Spring Boot (Basics)
+- NodeJS
+- ExpressJS
 - FastAPI
 - REST APIs
 
 ### Databases
 - MySQL
 - MongoDB
+- PostgresSQL
 - ChromaDB
 
 ### Tools & Platforms
@@ -30,9 +33,11 @@ Currently focused on improving my skills in **Java, Data Structures & Algorithms
 - Linux
 - Wireshark
 - VS Code
+- Antigravity
+- Cursor
 
 ### Core Concepts
-- OOP
+- OOPs
 - DBMS
 - Operating Systems
 - Computer Networks
@@ -73,7 +78,7 @@ Fraud alert platform designed to detect and report ongoing scam activities.
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn Link]
+- LinkedIn: https://www.linkedin.com/in/shantanu-jaiswal-8800b2265/
 - GitHub: https://github.com/ShantanuJais00
 - Email: shantanu.jais2007@gmail.com
 
