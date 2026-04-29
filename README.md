@@ -22,6 +22,7 @@ Currently focused on improving my skills in **Java, Data Structures & Algorithms
 
 ### Databases
 - MySQL
+- MongoDB
 - ChromaDB
 
 ### Tools & Platforms
